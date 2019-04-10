@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "2",
-    "ref": "1"
+    "ref": "TooTallNate/ref#pull/110/head"
   },
   "devDependencies": {
     "bindings": "1",
